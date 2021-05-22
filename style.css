@@ -1,0 +1,41 @@
+#Front {
+    height: 400px;
+}
+
+#myCarousel {
+    background-color: lightblue;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+.container {
+    text-align: center;
+}
+#Quote1{
+    height: 250px;
+}
+#Quote2{
+    height: 250px;
+}
+#Quote7{
+    height: 250px;
+}
+#Quote8{
+    height: 250px;
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
